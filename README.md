@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muad Noushad
+- 👋 Hi, I’m Muad
 - 👀 I’m having skills in all HTMl, CSS, Javascript, bootstap.
 - 🌱 I’m currently learning react.js and node.js
 - 💞️ Here to learn and contribute with UI and UX Skills...
