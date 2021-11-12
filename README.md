@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muad
-- 👀 I’m having skills in all HTMl, CSS, Javascript, bootstap.
-- 🌱 I’m currently learning react.js and node.js
+- 👀 On-hand skills in HTMl, CSS, Javascript, jQuery, bootstap, React.
+- 🌱 Current skill update in node.
 - 💞️ Here to learn and contribute with UI and UX Skills...
 - 📫 Reach me on muad.noushad.92@gmail.com.
 
